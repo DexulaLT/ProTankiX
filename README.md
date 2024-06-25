@@ -2,7 +2,7 @@
 [![Discord](https://img.shields.io/discord/1233336064052301835?style=for-the-badge&logo=discord&logoColor=ffffff&label=discord&link=https%3A%2F%2Fdiscord.gg%2Feuug57b7NQ)](https://discord.gg/wjQW3D4sup)
 <div align="center">
 
-![https://cdn.discordapp.com/attachments/1254168079378677821/1254995001515970710/protankix.png?ex=667b84ad&is=667a332d&hm=08d687d132f8d965a69b483286bb476803561bdb91da0afe44ca687fc32559e5&])
+!([https://cdn.discordapp.com/attachments/1254168079378677821/1254995001515970710/protankix.png?ex=667b84ad&is=667a332d&hm=08d687d132f8d965a69b483286bb476803561bdb91da0afe44ca687fc32559e5&])
 
 
 
@@ -98,16 +98,7 @@ You can see the game features and their status in the following tables.
 | Ricochet     | ⚒️     |                                     |
 | Shaft        | ⚒️     |                                     |
 | Hammer       | ⚒️     |                                     |
-| Vulcan       | ⚒️     |                                     |
-| Striker      | ⚒️     |                                     |
-| Magnum       | ⚒️     |                                     |
-| Gauss        | ⚒️     |                                     |
-| Terminator   | ⚒️     |                                     |
-| Snowman      | ❌     |                                     |
-| Tomato Gun   | ❌     |                                     |
-| Tesla        | 🛑     | Not implemented in the Flash client |
-| B0-NK        | 🛑     | Not implemented in the Flash client |
-| Scorpion     | 🛑     | Not implemented in the Flash client |
+
 
 #### Hulls
 
