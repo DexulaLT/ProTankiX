@@ -1,9 +1,6 @@
-# Araumi TO 
+# ProTanki X
 [![Discord](https://img.shields.io/discord/1233336064052301835?style=for-the-badge&logo=discord&logoColor=ffffff&label=discord&link=https%3A%2F%2Fdiscord.gg%2Feuug57b7NQ)](https://discord.gg/wjQW3D4sup)
 <div align="center">
-
-![]https://cdn.discordapp.com/attachments/1254168079378677821/1254995001515970710/protankix.png?ex=667b84ad&is=667a332d&hm=08d687d132f8d965a69b483286bb476803561bdb91da0afe44ca687fc32559e5)
-
 
 
 
@@ -31,10 +28,10 @@ You can see the game features and their status in the following tables.
 
 | Feature       | Status | Notes                         |
 |---------------|--------|-------------------------------|
-| Battle list   | ✅     |                               |
+| Battle list   | ⚒️     |                               |
 | Battle create | ⚒️     | Battle settings are ignored   |
-| Battle info   | ✅     |                               |
-| Matchmaking   | 🚧     | Matchmaker is not implemented |
+| Battle info   | ⚒️     |                               |
+| Matchmaking   | ⚒️     | Matchmaker is not implemented |
 | Global chat   | ⚒️     |                               |
 
 ### Garage
@@ -42,12 +39,12 @@ You can see the game features and their status in the following tables.
 | Feature            | Status | Notes                                  |
 |--------------------|--------|----------------------------------------|
 | Tank preview       | ✅     |                                        |
-| Item mounting      | ✅     |                                        |
+| Item mounting      | ⚒️     |                                        |
 | Item buying        | ❌     |                                        |
-| Hulls              | ✅     |                                        |
-| Weapons            | ✅     |                                        |
-| Paints             | ✅     |                                        |
-| Supplies           | 🚧     |                                        |
+| Hulls              | ⚒️     |                                        |
+| Weapons            | ⚒️     |                                        |
+| Paints             | ⚒️     |                                        |
+| Supplies           | ⚒️     |                                        |
 | Kits               | ❌     |                                        |
 | Containers         | ❌     |                                        |
 | Resistance modules | ❌     |                                        |
